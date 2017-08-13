@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Boa compra</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_mapa_oferta">Map</string>
+</resources>
