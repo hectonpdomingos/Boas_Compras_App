@@ -1,4 +1,6 @@
 # Boas_Compras_App
+Autor: Hecton P.Domingos
+
 Attempt to create a app that's show the lowest supermarket prices. Its use Java as main language and PHP+MYSQL in the server that's return data using JSON.
 
 Why did I give up? 
